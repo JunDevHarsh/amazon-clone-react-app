@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "PT Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.dropdown-btn:hover > .dropdown-content {
+  pointer-events: all;
+  opacity: 1;
+}
+
+.language-item:hover .language-item-dot {
+  opacity: 1;
+}
+
+.language-item:hover p {
+  text-decoration: underline;
+  color: #e47911;
+}
