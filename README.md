@@ -88,3 +88,12 @@ This project is fully deployed on [Netlify](https://netlify.app/)
 	  - [x] Styling
 	  - [ ]  User can redirect to specific link
 </details>
+
+<details>
+  <summary>
+    Amazon Menubar
+  </summary>
+  
+  - [x] Custom Menu List
+  - [x] Hamburger Menubar
+</details>
