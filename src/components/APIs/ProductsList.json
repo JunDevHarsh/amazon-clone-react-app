@@ -1,0 +1,46 @@
+{
+    "computer": [
+        {
+            "id": "1",
+            "title": "Lenovo Yoga AIO 7 27\" 4K UHD Touchscreen All-in-One Desktop (AMD Ryzen 7 5800H/16GB/1TB SSD/Win 11/Office 2021/AMD Radeon RX6600M 8GB GDDR6/100% sRGB/5MP IR Camera/2x5W JBL Speakers/Rotating Display)",
+            "price": "171990",
+            "image": "https://m.media-amazon.com/images/I/81M31YD0hCL._SX679_.jpg",
+            "actual_price": "212390",
+            "in_stock": true,
+            "seller": {
+                "name": "Appario Retail Private Ltd"
+            },
+            "ratings": {
+                "rating_1": "4",
+                "rating_2": "5",
+                "rating_3": "64",
+                "rating_4": "32",
+                "rating_5": "21"
+            },
+            "discount": "19",
+            "category": "Laptop",
+            "description": "",
+            "delivery": {
+                "type": "Free",
+                "delivery_by": "Amazon"
+            },
+            "about": [
+                "Processor: AMD Ryzen 7 5800H | Speed: 3.2 GHz (Base) - 4.4 GHz (Max) | 8 Cores | 4MB L2/ 16MB L3 Cache",
+                "Graphics: AMD Radeon RX 6600M 8GB GDDR6 graphics",
+                "Design: 90° rotating screen | 10-point Multi-touch Touchscreen",
+                "Display: 27-inch 4K UHD (3840x2160) | Brightness: 360nits | 100% sRGB | IPS Display",
+                "OS and Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021",
+                "Memory and Storage: 16GB DDR4-3200 RAM, expandable up to 32GB | Storage: 1TB SSD",
+                "Camera (Built in): 5.0MP IR Camera with Facial Recognition",
+                "Audio: 2 x 5W JBL Brand Speakers | HD Audio | Dual Microphone",
+                "Connectivity: WiFi 5 (11ac, 2x2) | Bluetooth 5.0",
+                "Ports: 3 x USB 3.2, 3 x USB 2.0, Ethernet (RJ-45), HDMI-out 2.0, 3.5mm jack | Without CD-Drive",
+                "In The Box: All-in-One, Euterpe Wireless Keyboard, Euterpe Wireless Mouse, Power Adapter, User Manual",
+                "Warranty: This genuine Lenovo All-in-One comes with 3 Year Onsite Warranty"
+            ],
+            "replacement": "7",
+            "warranty": "3",
+            "contact": false
+        }
+    ]
+}
