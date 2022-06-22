@@ -1,18 +1,17 @@
+import Home from "./Home";
 import "./App.css";
-import Footer from "./components/Footer/Footer";
-import Header from "./components/Header/Header";
-import MenuBar from "./components/Menubar/MenuBar";
-import ResultInfoBar from "./components/ResultInfoBar/ResultInfoBar";
-import SearchProductResult from "./components/SearchProductResult/SearchProductResult";
+import { Route, Routes } from "react-router-dom";
+import SignIn from "./components/SignIn/SignIn";
+import NotFound from "./NotFound";
 
 function App() {
   return (
     <>
-      <Header />
-      <MenuBar />
-      <ResultInfoBar />
-      <SearchProductResult />
-      <Footer />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/signIn" element={<SignIn />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
     </>
   );
 }
