@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import MenuBar from "./components/Menubar/MenuBar";
 import ResultInfoBar from "./components/ResultInfoBar/ResultInfoBar";
@@ -11,6 +12,7 @@ function App() {
       <MenuBar />
       <ResultInfoBar />
       <SearchProductResult />
+      <Footer />
     </>
   );
 }
