@@ -16,6 +16,12 @@ code {
     monospace;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 .dropdown-btn:hover > .dropdown-content {
   pointer-events: all;
   opacity: 1;
