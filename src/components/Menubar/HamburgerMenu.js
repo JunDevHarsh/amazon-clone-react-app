@@ -239,7 +239,7 @@ function HamburgerMenu() {
         <AiOutlineMenu className="text-white" />
         <span className="ml-1 text-white text-sm">All</span>
         <div
-          className={`absolute w-80 h-[100vh] top-0 left-0  transition-transform duration-700 overflow-x-hidden bg-[#fcfcfc] cursor-default ${
+          className={`fixed w-80 h-[100vh] top-0 left-0  transition-transform duration-700 overflow-x-hidden bg-[#fcfcfc] cursor-default ${
             hamburgerMenuOpen ? "translate-x-0" : "-translate-x-full"
           }`}
         >
