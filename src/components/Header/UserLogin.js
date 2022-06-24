@@ -46,12 +46,12 @@ function UserLogin() {
               <span className="text-[10px] text-[#6a6a6a] tracking-wider">
                 New Customer?
               </span>
-              <a
-                href="/"
+              <Link
+                to={"/signUp"}
                 className="text-xs text-blue-500 ml-1 hover:text-amazon-orange hover:underline"
               >
                 Start here
-              </a>
+              </Link>
             </div>
           </div>
           <hr className="mt-4 border-b-[0.5px] border-b-solid border-b-[#f3f3f3]" />
