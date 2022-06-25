@@ -1,5 +1,5 @@
 import React from "react";
-import AmazonLogo from "./images/amazon-brand-logo.svg";
+import AmazonLogo from "../../images/amazon-brand-logo.svg";
 import { Link } from "react-router-dom";
 import { AiOutlineQuestionCircle } from "react-icons//ai";
 import { IoMdArrowDropright } from "react-icons/io";
