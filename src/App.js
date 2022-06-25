@@ -1,8 +1,8 @@
-import Home from "./Home";
-import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import SignIn from "./components/SignIn/SignIn";
-import NotFound from "./NotFound";
+import "./App.css";
+import Home from "./Pages/Home/Home";
+import SignIn from "./Pages/SignIn/SignIn";
+import NotFound from "./Pages/NotFound/NotFound";
 
 function App() {
   return (
